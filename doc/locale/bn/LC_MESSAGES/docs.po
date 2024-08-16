@@ -2,7 +2,7 @@
 # Copyright (C) 2022 LFortran contributors
 # This file is distributed under the same license as the LFortran package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2022.
-#
+#test
 #, fuzzy
 msgid ""
 msgstr ""
